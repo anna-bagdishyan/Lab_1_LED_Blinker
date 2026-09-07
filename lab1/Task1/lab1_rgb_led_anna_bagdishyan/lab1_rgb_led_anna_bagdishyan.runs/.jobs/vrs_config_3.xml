@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="impl_1" LaunchDir="C:/ECE520/Vivado/Lab1/Task1/lab1_rgb_led_anna_bagdishyan/lab1_rgb_led_anna_bagdishyan.runs/impl_1" FlowId="Vivado_Implementation" FromStepId="write_bitstream" ToStepId="write_bitstream"/>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+
