@@ -1,0 +1,22 @@
+# Vivado folders
+**/.cache/
+**/.Xil/
+**/.gen/
+**/.hw/
+**/.runs/
+**/.sim/
+**/ip_user_files/
+
+# Vivado files
+**/*.jou
+**/*.log
+**/*.str
+**/*.wdb
+**/*.wcfg
+**/*.dmp
+**/*.rpt
+
+# Generated programming files
+**/*.bit
+**/*.bin
+**/*.ltx
