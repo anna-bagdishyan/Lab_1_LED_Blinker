@@ -20,7 +20,6 @@ Figure 1 - A screenshot of the simulation window for the blinking_led testbench.
 For Task 1, a 125 MHz clock was used in the rgb_led_top testbench and CLK_CYCLES_PER_TOGGLE was changed to 10. The reset behavior, multiple switches being enabled, and the LED selection colors were tested. All five test cases passed, and TEST PASSED  was displayed in the Tcl console.
 
 ![rgb_led_sim_result](https://github.com/anna-bagdishyan/Lab_1_LED_Blinker/blob/main/Screenshots/rgb_led_sim_result.png)\
- 
 Figure 2 - A screenshot of the simulation window for the rgb_led_top testbench.
 
 After the constraints were added and modified, the designs successfully passed synthesis and implementation, and bitstreams were generated. The LED behavior was then verified on the hardware. For Task 1, SW0, SW1, and SW2 correctly selected the red, green, and blue LEDs, and the selected color blinked once per second.
